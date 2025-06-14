@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center"><strong>WeCare Health Centre</strong></h1>
+<h2 align="center"><strong>🔗 [Live Demo](https://wecare-health.onrender.com/) </strong></h2>
 <h3 align="center">🩺 <em>Your Personalized Medical Recommendation Web App</em> 🧠</h3>
 
-🔗 [Live Demo](https://wecare-health.onrender.com/)
 
 <p align="center">
   An AI-powered medical recommendation system that allows users to input symptoms and receive best-matched specialist consultancy along with medical suggestions.
