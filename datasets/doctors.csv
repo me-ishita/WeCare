@@ -1,0 +1,42 @@
+Disease ID,Disease Name,Doctor Name,Email,Location,Specialization
+15,Fungal infection,Dr. Ananya Mehra,ananya.mehra@wecareclinic.in,Mumbai,Dermatologist
+4,Allergy,Dr. Rohit Kapoor,rohit.kapoor@wecareclinic.in,Delhi,Immunologist
+16,GERD,Dr. Sneha Rathi,sneha.rathi@wecareclinic.in,Pune,Gastroenterologist
+9,Chronic cholestasis,Dr. Arjun Rao,arjun.rao@wecareclinic.in,Hyderabad,Hepatologist
+14,Drug Reaction,Dr. Kavita Sharma,kavita.sharma@wecareclinic.in,Bangalore,Dermatologist
+33,Peptic ulcer diseae,Dr. Nikhil Jain,nikhil.jain@wecareclinic.in,Chennai,Gastroenterologist
+1,AIDS,Dr. Reema Joshi,reema.joshi@wecareclinic.in,Kolkata,Infectious Disease Specialist
+12,Diabetes ,Dr. Varun Sinha,varun.sinha@wecareclinic.in,Ahmedabad,Endocrinologist
+17,Gastroenteritis,Dr. Neha Arora,neha.arora@wecareclinic.in,Surat,Gastroenterologist
+6,Bronchial Asthma,Dr. Karan Malhotra,karan.malhotra@wecareclinic.in,Jaipur,Pulmonologist
+23,Hypertension ,Dr. Tanya Verma,tanya.verma@wecareclinic.in,Noida,Cardiologist
+30,Migraine,Dr. Alok Nanda,alok.nanda@wecareclinic.in,Bhopal,Neurologist
+7,Cervical spondylosis,Dr. Snehal Patil,snehal.patil@wecareclinic.in,Nagpur,Orthopedic Surgeon
+32,Paralysis (brain hemorrhage),Dr. Priya Dey,priya.dey@wecareclinic.in,Patna,Neurologist
+28,Jaundice,Dr. Harshita Singh,harshita.singh@wecareclinic.in,Lucknow,Hepatologist
+29,Malaria,Dr. Sameer Das,sameer.das@wecareclinic.in,Guwahati,General Physician
+8,Chicken pox,Dr. Anil Khatri,anil.khatri@wecareclinic.in,Chandigarh,Infectious Disease Specialist
+11,Dengue,Dr. Meenal Desai,meenal.desai@wecareclinic.in,Ranchi,General Physician
+37,Typhoid,Dr. Dev Sharma,dev.sharma@wecareclinic.in,Indore,General Physician
+40,hepatitis A,Dr. Shreya Iyer,shreya.iyer@wecareclinic.in,Bhubaneswar,Hepatologist
+19,Hepatitis B,Dr. Aditya Menon,aditya.menon@wecareclinic.in,Thiruvananthapuram,Hepatologist
+20,Hepatitis C,Dr. Ishita Kaul,ishita.kaul@wecareclinic.in,Raipur,Hepatologist
+21,Hepatitis D,Dr. Mohit Shekhar,mohit.shekhar@wecareclinic.in,Amritsar,Hepatologist
+22,Hepatitis E,Dr. Parul Jain,parul.jain@wecareclinic.in,Visakhapatnam,Hepatologist
+3,Alcoholic hepatitis,Dr. Vikram Joshi,vikram.joshi@wecareclinic.in,Varanasi,Hepatologist
+36,Tuberculosis,Dr. Namita Bansal,namita.bansal@wecareclinic.in,Dehradun,Pulmonologist
+10,Common Cold,Dr. Akash Tripathi,akash.tripathi@wecareclinic.in,Agra,General Physician
+34,Pneumonia,Dr. Sheetal Roy,sheetal.roy@wecareclinic.in,Srinagar,Pulmonologist
+13,Dimorphic hemmorhoids(piles),Dr. Ajay Nair,ajay.nair@wecareclinic.in,Kozhikode,Proctologist
+18,Heart attack,Dr. Radhika Nambiar,radhika.nambiar@wecareclinic.in,Mangalore,Cardiologist
+39,Varicose veins,Dr. Yashwant Kulkarni,yashwant.kulkarni@wecareclinic.in,Nashik,Vascular Surgeon
+26,Hypothyroidism,Dr. Charu Saxena,charu.saxena@wecareclinic.in,Faridabad,Endocrinologist
+24,Hyperthyroidism,Dr. Nidhi Prakash,nidhi.prakash@wecareclinic.in,Gwalior,Endocrinologist
+25,Hypoglycemia,Dr. Ravi Shankar,ravi.shankar@wecareclinic.in,Meerut,Endocrinologist
+31,Osteoarthristis,Dr. Lakshmi Pillai,lakshmi.pillai@wecareclinic.in,Hubli,Rheumatologist
+5,Arthritis,Dr. Manish Gera,manish.gera@wecareclinic.in,Jodhpur,Rheumatologist
+0,(vertigo) Paroymsal  Positional Vertigo,Dr. Aishwarya Rao,aishwarya.rao@wecareclinic.in,Jamshedpur,ENT Specialist
+2,Acne,Dr. Ritu Bhargava,ritu.bhargava@wecareclinic.in,Udaipur,Dermatologist
+38,Urinary tract infection,Dr. Deepak Suri,deepak.suri@wecareclinic.in,Rohtak,Urologist
+35,Psoriasis,Dr. Shruti Malik,shruti.malik@wecareclinic.in,Panipat,Dermatologist
+27,Impetigo,Dr. Harpal Grewal,harpal.grewal@wecareclinic.in,Ajmer,Dermatologist
