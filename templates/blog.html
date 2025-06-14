@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Blog - WeCare</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Nunito', sans-serif;
+      background: url("{{ url_for('static', filename='blog.png') }}") no-repeat center center fixed;
+      background-size: cover;
+    }
+
+    .overlay {
+      background-color: rgba(255, 255, 255, 0.93);
+      padding: 60px;
+      border-radius: 20px;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+    }
+
+    h2 {
+      font-weight: 800;
+      color: #1f4068;
+      margin-bottom: 30px;
+    }
+
+    h4 {
+      color: #278ea5;
+      margin-top: 30px;
+      font-weight: 700;
+    }
+
+    p, li {
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #333;
+    }
+
+    .container {
+      max-width: 960px;
+    }
+
+    @media (max-width: 768px) {
+      .overlay {
+        padding: 30px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container my-5">
+    <div class="overlay">
+      <h2 class="text-center">Building a Symptom-Based Disease Diagnosis Web App</h2>
+
+      <p>In the age of technology and information, access to accurate and timely healthcare is more critical than ever...</p>
+
+      <h4>The Problem</h4>
+      <p>The project began with recognizing a common issue: people often experience symptoms and want quick answers...</p>
+
+      <h4>The Solution</h4>
+      <p>We developed a web app that allows users to enter a list of symptoms they are experiencing...</p>
+
+      <ol>
+        <li><strong>Symptom Input:</strong> Users enter their symptoms through a user-friendly interface...</li>
+        <li><strong>Machine Learning Model:</strong> A Decision Tree Classifier is trained on a symptom-disease dataset...</li>
+        <li><strong>Prediction:</strong> The model provides likely diagnoses based on symptoms entered...</li>
+        <li><strong>Additional Info:</strong> Description, precautions, medications, dietary advice, and workouts...</li>
+      </ol>
+
+      <h4>Key Features</h4>
+      <ul>
+        <li><strong>User-Friendly Interface:</strong> Clean UI for easy symptom input.</li>
+        <li><strong>Accurate Predictions:</strong> Machine learning-based results.</li>
+        <li><strong>Comprehensive Info:</strong> Includes full health guidance.</li>
+        <li><strong>Educational Content:</strong> Blogs and explanations on health topics.</li>
+      </ul>
+
+      <h4>Conclusion</h4>
+      <p>This web app brings AI-powered health diagnosis to everyone. We hope it increases awareness and empowers users to better manage their health.</p>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
