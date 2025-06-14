@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">
-  <strong>WeCare Health Centre</strong>
   <small>
-    <a href="https://wecare-health.onrender.com/" target="_blank" style="font-size: 16px; margin-left: 10px; text-decoration: none;">
+    <a href="https://wecare-health.onrender.com/" target="_blank" style="font-size: 12px; margin-left: 10px; text-decoration: none;">
       🔗 Live Demo
     </a>
   </small>
