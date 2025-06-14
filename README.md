@@ -2,8 +2,15 @@
   <img src="static/img.png" alt="WeCare Logo" width="200"/>
 </p>
 
-<h1 align="center"><strong>WeCare Health Centre</strong></h1>
-<h2 align="center"><strong>🔗 [Live Demo](https://wecare-health.onrender.com/) </strong></h2>
+<h1 align="center">
+  <strong>WeCare Health Centre</strong>
+  <small>
+    <a href="https://wecare-health.onrender.com/" target="_blank" style="font-size: 16px; margin-left: 10px; text-decoration: none;">
+      🔗 Live Demo
+    </a>
+  </small>
+</h1>
+
 <h3 align="center">🩺 <em>Your Personalized Medical Recommendation Web App</em> 🧠</h3>
 
 
