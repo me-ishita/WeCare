@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://wecare-health.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=expo&logoColor=white" alt="Live Demo Badge" />
+    <img src="https://img.shields.io/badge/WeCare%20Live-Click%20Here-brightgreen?style=for-the-badge&logo=expo&logoColor=white" alt="Live Demo Badge" />
   </a>
 </h1>
 
