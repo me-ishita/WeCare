@@ -3,12 +3,11 @@
 </p>
 
 <h1 align="center">
-  <small>
-    <a href="https://wecare-health.onrender.com/" target="_blank" style="font-size: 12px; margin-left: 10px; text-decoration: none;">
-      🔗 Live Demo
-    </a>
-  </small>
+  <a href="https://wecare-health.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=expo&logoColor=white" alt="Live Demo Badge" />
+  </a>
 </h1>
+
 
 <h3 align="center">🩺 <em>Your Personalized Medical Recommendation Web App</em> 🧠</h3>
 
